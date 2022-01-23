@@ -21,7 +21,7 @@ We did not conduct analysis for all of the states but selected target ones which
 we choose two index first is unemployment rate and next one obviously is vaccination rate.
 We choose unemployment rate as our economic index, because we assume it can reflect short term economic situation. Also, because COVID is directly impact human being and the unemployment rate is the most related to people than other economic index such as GDP or CPI.
 
-### conclusion
+### Conclusion
 We concluded that  because the current vaccination data available on CDC only cover 3 months from March to May,  there is limited data to analyze and easily affected by the result of single month.
 We also doubt that the unemployment rate was not affected immediately. And there might be some time delay to react. So, we thought that a longer period of observation would help us gain more evidence to verify the relationships.
 Moreover, correlation does not imply causation. We only take two variables this time, more parameters should be considered in further analysis. 
