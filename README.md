@@ -4,7 +4,7 @@ It was the highest rate observed since 1948.The cases increased as time goes by 
 While the cases were increasing, an economics professor stated that “Vaccines are absolutely, 100 percent the answer to economic challenges imposed by the pandemic!"
 We stay skeptical of this statement so we analyzed the vaccination rate data and the unemployment rate data, since we assumed that the unemployment rate data could be an index reflecting the prosperity of the economy.
 
-### programming language
+### Programming language
 Python
 
 ### Authors
